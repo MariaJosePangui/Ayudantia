@@ -1,4 +1,4 @@
-package com.example.ayudantia;
+package com.ayudantia;
 public class Vehiculo {
     protected String marca;
     protected String modelo;

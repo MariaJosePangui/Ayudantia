@@ -1,4 +1,4 @@
-package com.example.ayudantia;
+package com.ayudantia;
 class Auto extends Vehiculo {
     private int ventanas;
 

@@ -1,4 +1,4 @@
-package com.example.ayudantia;
+package com.ayudantia;
 
 public class Principal {
     public static void main(String[] args) {

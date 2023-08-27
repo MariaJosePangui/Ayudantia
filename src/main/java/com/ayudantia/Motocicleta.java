@@ -1,4 +1,4 @@
-package com.example.ayudantia;
+package com.ayudantia;
 class Motocicleta extends Vehiculo {
     private String color;
 
